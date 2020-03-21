@@ -1,0 +1,49 @@
+body {
+    background-color: #E8D7FF;
+ }
+ 
+ h1{
+   font-family: Oldtown;
+   color: #360303;
+   padding: 10px;
+   text-align: center;
+   margin: -8px;
+   text-decoration: none;
+   text-transform: uppercase;
+ }
+ 
+ p{
+   color: #360303;
+   padding: 10px;
+   text-align: center;
+   margin: -8px;
+   font-family: Arial;
+ }
+ 
+ .cafename {
+   text-align: center;
+   color: #59474a;
+   font-family: Oldtown;
+   text-decoration: underline;
+ }
+ 
+ a {
+   text-align: center;
+   font-weight: 200;
+   text-decoration: underline;
+   text-transform: none;
+   font-family: Arial;
+   color: #450043;
+ }
+ 
+ IMG.displayed {
+     display: block;
+     margin-left: auto;
+     margin-right: auto 
+ }
+ 
+ .div-center{
+     display: table;
+     margin: 0 auto;
+     width: 300px;
+ }
